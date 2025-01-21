@@ -1,0 +1,4 @@
+if "npm -v" give issue in trminal 
+use (Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+)
+command in terminal
