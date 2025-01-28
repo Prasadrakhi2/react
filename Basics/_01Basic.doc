@@ -6,3 +6,6 @@
 
 4.Math.random() => use to genrate "random" no.
 5. style = {{'attribute:value'}} => use inline css in jSX
+
+*6. (``) {backticks} => use for difingin the objects in the string valuse with "$
+ ex=> `${name}` , see example in react file in "18_Fragmentation"

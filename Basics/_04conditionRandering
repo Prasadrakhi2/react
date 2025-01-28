@@ -1,0 +1,6 @@
+1. use => work as if-else
+2. methods => a) if-else  b)ternary-operater  c)Logical-operater
+3. Logical-operater Syntex => {condition && <html code>}
+    example :
+    {food.length===0 && <h3>i'm hungery</h3>}
+    so it will print this and avoid the below code
