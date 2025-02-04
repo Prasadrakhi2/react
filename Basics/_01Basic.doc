@@ -9,3 +9,8 @@
 
 *6. (``) {backticks} => use for difingin the objects in the string valuse with "$
  ex=> `${name}` , see example in react file in "18_Fragmentation"
+
+
+ *****
+ app => only contain 'UI' related work
+ store => contain buissness related changes=>(function, data)
